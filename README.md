@@ -12,8 +12,8 @@ Impact of tenure on retention.
 Key metrics like employee distribution by age, gender, departments and average monthly income.
 
 Objectives :
-The primary goals of this project are:
 
+The primary goals of this project are:
       Identify patterns and trends in employee attrition.
       Provide actionable insights to improve retention strategies.
       Assist organizations in making data-driven decisions for workforce management.
