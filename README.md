@@ -15,9 +15,7 @@ Objectives :
 The primary goals of this project are:
 
      1. Identify patterns and trends in employee attrition.
-     
      2. Provide actionable insights to improve retention strategies.
-     
      3. Assist organizations in making data-driven decisions for workforce management.
      
 Key Insights :
