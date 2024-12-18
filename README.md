@@ -1,4 +1,5 @@
-      This project analyzes employee attrition data using SQL to uncover patterns and factors contributing to employee turnover. 
+   EMPLOYEE ATTRITION PROJECT BY SQL
+   This project analyzes employee attrition data using SQL to uncover patterns and factors contributing to employee turnover. 
 By leveraging SQL queries, the analysis provides actionable insights to help the organization improve employee retention and workforce management.
 
 Project Overview :
