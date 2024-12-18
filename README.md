@@ -29,7 +29,9 @@ Income and Satisfaction: Explored the relationship between salary levels and emp
 Tools and Technologies :
 
 SQL: For querying and analyzing data.
+
 Database: MySQL
+
 Data Source: Unified Mentor Data Analysis internship project
 
 Conclusion :
